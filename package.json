@@ -1,6 +1,6 @@
 {
   "name": "microservice-1-sls-rest-api",
-  "version": "1.0.0-0",
+  "version": "1.0.0-1",
   "license": "UNLICENSED",
   "scripts": {
     "prepare": "./scripts/prepare.sh",
