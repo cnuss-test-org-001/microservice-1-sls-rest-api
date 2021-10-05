@@ -1,0 +1,23 @@
+{
+  "auth-sls-rest-api": {
+    "api-id": "w4c8by4mug",
+    "api-resource-id": "tjbyocca7e",
+    "base-url": "https://sly.cnuss-test-org-001.live.scaffoldly.dev/auth",
+    "service-name": "auth-sls-rest-api",
+    "service-slug": "auth"
+  },
+  "microservice-1-sls-rest-api": {
+    "api-id": "ntqzbkszuf",
+    "api-resource-id": "0w6d0epit7",
+    "base-url": "https://sly.cnuss-test-org-001.live.scaffoldly.dev/microservice-1",
+    "service-name": "microservice-1-sls-rest-api",
+    "service-slug": "microservice-1"
+  },
+  "microservice-3-sls-rest-api": {
+    "api-id": "1k1swewmy6",
+    "api-resource-id": "6qxedslj0l",
+    "base-url": "https://sly.cnuss-test-org-001.live.scaffoldly.dev/microservice-3",
+    "service-name": "microservice-3-sls-rest-api",
+    "service-slug": "microservice-3"
+  }
+}
